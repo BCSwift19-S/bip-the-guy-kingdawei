@@ -38,7 +38,7 @@
                                 </subviews>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Choose Image to Punch:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fu3-kF-0kq">
-                                <rect key="frame" x="62" y="584" width="289" height="46"/>
+                                <rect key="frame" x="63" y="584" width="288" height="46"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="46" id="mWB-in-LjE"/>
                                 </constraints>
